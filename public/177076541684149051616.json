@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113564488765",
+    "project_id": "tentang-duit",
+    "storage_bucket": "tentang-duit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113564488765:android:fd37160c1727b478fac654",
+        "android_client_info": {
+          "package_name": "com.wearing.themaagge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113564488765-ltitulb0h0r05brl5bbk1aoiauvnkjgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHhg2fFsEp5w4MS2JFcMgG_PIznr1nqlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113564488765-ltitulb0h0r05brl5bbk1aoiauvnkjgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
